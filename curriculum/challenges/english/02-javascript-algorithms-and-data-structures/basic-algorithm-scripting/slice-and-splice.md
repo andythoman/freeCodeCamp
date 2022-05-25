@@ -10,7 +10,7 @@ dashedName: slice-and-splice
 
 You are given two arrays and an index.
 
-Copy each element of the first array into the second array, in order.
+Return an array that is a copy of each element of the first array into the second array, in order.
 
 Begin inserting elements at index `n` of the second array.
 
